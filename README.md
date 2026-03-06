@@ -118,7 +118,8 @@ const Gifted = GiftedConnect({
 [`HERE'S AN EXAMPLE OUTPUT`](https://session.giftedtech.co.ke)
 # `Owner`
 
- <a href="https://github.com/mauricegift"><img src="https://github.com/mauricegift.png" width="250" height="250" alt="Gifted Tech"/></a>
+ <a href="https://github.com/mauricegift"><img src="https://github.com/user-attachments/assets/bc7c1f30-11dc-4abd-903d-5d640b37c4df" width="250" height="250" alt="Gifted Tech"/></a>
 
 
    
+
