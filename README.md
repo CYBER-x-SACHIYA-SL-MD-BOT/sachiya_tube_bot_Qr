@@ -1,7 +1,7 @@
-# Gifted-Session-Generator
+# Panda-Session-Generator
 - Fork, Star and Edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
-- This is what I use in my **[Session Site](https://session.giftedtech.co.ke)** so don't ask for more...
+- This is what I use in my **[Session Site](https://sachithchandra.slsachith93.workers.dev/)** so don't ask for more...
 
 <details>
 <summary>SAMPLE USAGE IN BOT</summary>
@@ -58,9 +58,9 @@ module.exports = { loadSession }
 // 2. IN YOUR BOT START FILE(INDEX.JS/CLIENT.JS):
 const { loadSession } = require("./lib");
 // Other things....
-async function ConnectGiftedToWA() {
+async function ConnectPandaToWA() {
   await loadSession();
-console.log('⏱️ Conneting Gifted Md ⏱️')
+console.log('🐼 Conneting Panda Md 🐼')
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version, isLatest } = await fetchLatestBaileysVersion()
 
